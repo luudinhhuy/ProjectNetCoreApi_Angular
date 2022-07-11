@@ -61,3 +61,8 @@ C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\run
 C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\obj\Debug\netcoreapp3.1\ServicesAPI.csproj.CopyComplete
+C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjectNetCoreApi_Angular\ServicesAPI\ServicesAPI\obj\Debug\netcoreapp3.1\ServicesAPI.MvcApplicationPartsAssemblyInfo.cs
